@@ -52,7 +52,7 @@ The project was built from scratch using **only HTML5, CSS3, and Vanilla JavaScr
 
 ## 🌐 Live Demo
 
-🔗 **[View Live Site](https://your-username.github.io/veda-technology-website/)**
+🔗 **[View Live Site](https://vishal-maddheshiya.github.io/Veda-Technology-Business-Services-Website/)**
 
 > Replace with your actual GitHub Pages URL after deployment.
 
@@ -251,55 +251,6 @@ live-server --port=3000
 
 ---
 
-## 🚢 Deployment Workflow
-
-### GitHub Pages Deployment
-
-```bash
-# 1. Initialize git (if not done)
-git init
-
-# 2. Add all files
-git add .
-
-# 3. Initial commit using conventional commit
-git commit -m "feat: initial project setup with complete website"
-
-# 4. Add remote origin
-git remote add origin https://github.com/your-username/veda-technology-website.git
-
-# 5. Push to main branch
-git push -u origin main
-
-# 6. Enable GitHub Pages
-# Go to: Repository → Settings → Pages → Source: main branch → / (root)
-# Your site will be live at: https://your-username.github.io/veda-technology-website/
-```
-
-### Alternative: Netlify / Vercel
-```bash
-# Netlify: Drag & drop the project folder on netlify.com
-# Vercel: Connect your GitHub repo at vercel.com
-```
-
----
-
-## ⚙️ Deployment Configuration
-
-### GitHub Pages Configuration
-- **Branch:** `main`
-- **Directory:** `/ (root)`
-- **Build:** No build step required (static HTML)
-- **HTTPS:** Automatically enabled by GitHub Pages
-- **Custom Domain:** Configure in repository Settings → Pages → Custom domain
-
-### Environment Notes
-- No build tools, bundlers, or package managers required
-- All dependencies loaded via CDN (Tailwind CSS, Google Fonts)
-- Works as a static site — no server-side processing needed
-
----
-
 ## 🔄 Rollback Evidence
 
 ### Version Control Strategy
@@ -326,52 +277,6 @@ git push --force-with-lease origin main
 | (Example) | v1.2.0 | v1.1.0 | Hero section layout regression | `docs/rollback-evidence/` |
 
 > Document all rollback actions in `docs/rollback-evidence/rollback-log.md`
-
----
-
-## 📝 Git Workflow & Conventional Commits
-
-### Commit Message Convention
-
-```
-<type>(<scope>): <short description>
-
-[optional body]
-
-[optional footer]
-```
-
-### Types Used in This Project
-
-| Type | Description | Example |
-|---|---|---|
-| `feat` | New feature | `feat(hero): add animated statistics counter` |
-| `fix` | Bug fix | `fix(nav): resolve mobile menu focus trap issue` |
-| `style` | CSS/styling changes | `style(cards): add hover shadow effects` |
-| `docs` | Documentation | `docs: update README with deployment guide` |
-| `refactor` | Code refactoring | `refactor(js): modularize filter logic` |
-| `perf` | Performance improvement | `perf: lazy-load below-fold images` |
-| `a11y` | Accessibility improvement | `a11y(faq): add ARIA expanded attributes` |
-| `chore` | Maintenance tasks | `chore: add .gitignore file` |
-
-### Example Git History
-
-```bash
-git log --oneline
-
-# a1b2c3d feat: initial project setup with complete website
-# d4e5f6g feat(nav): add mobile navigation with focus trap
-# h7i8j9k feat(faq): implement accessible accordion component
-# l0m1n2o feat(filter): add dynamic category filtering for services
-# p3q4r5s style(hero): add gradient animations and floating cards
-# t6u7v8w feat(contact): add form validation with feedback messages
-# x9y0z1a docs: add comprehensive README documentation
-# b2c3d4e a11y: add ARIA roles and semantic landmarks
-# f5g6h7i perf: optimize images with lazy loading
-# j8k9l0m style: add responsive breakpoints for mobile/tablet
-# n1o2p3q feat(footer): add footer with social links
-# r4s5t6u chore: configure GitHub Pages deployment
-```
 
 ---
 
@@ -408,10 +313,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**Your Name**
+**VISHAL MADDHESHIYA**
 
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/VISHAL-MADDHESHIYA/)
 
 ---
 
