@@ -138,7 +138,7 @@ veda-technology-website/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/veda-technology-website.git
+git clone https://github.com/VISHAL-MADDHESHIYA/veda-technology-website.git
 
 # 2. Navigate to the project directory
 cd veda-technology-website
@@ -315,7 +315,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **VISHAL MADDHESHIYA**
 
-- GitHub: [@your-username](https://github.com/VISHAL-MADDHESHIYA/)
+- GitHub: [@vishal](https://github.com/VISHAL-MADDHESHIYA/)
 
 ---
 
