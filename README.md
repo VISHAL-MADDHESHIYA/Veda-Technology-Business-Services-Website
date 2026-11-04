@@ -54,8 +54,6 @@ The project was built from scratch using **only HTML5, CSS3, and Vanilla JavaScr
 
 🔗 **[View Live Site](https://vishal-maddheshiya.github.io/Veda-Technology-Business-Services-Website/)**
 
-> Replace with your actual GitHub Pages URL after deployment.
-
 ---
 
 ## ✨ Features
